@@ -1,0 +1,9 @@
+path: /kaggle/input/newdataset/newDataset
+train: images/Train
+val:  images/Validate
+test: images/Test
+
+# class names
+names:
+  0: "FOD"
+  1: "Runway Crack"
